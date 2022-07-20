@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "Showcases classic Spongebob quotes via click button.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link":"https://cindyelopez28.github.io/Tech-degree-project-1/",
+            "github_link": "https://github.com/cindyelopez28/Tech-degree-project-1.git",
+            "image_urls": [
+                "/static/img/randomQuote1.jpg",
+                "/static/img/randomQuote2.jpg"
+            ]
+        },
+        {
+            "id": "1",
+            "project_name": "Data Pagination and Filtering ",
+            "description": "Showcases a directory of students.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "https://cindyelopez28.github.io/Tech-degree-project-2/",
+            "github_link": "https://github.com/cindyelopez28/Tech-degree-project-2.git",
+            "image_urls": [
+                "/static/img/dp1.jpg",
+                "/static/img/dp2.jpg"
+            ]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive Form ",
+            "description": "Form to collect user information for a Full Stack conference.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "https://cindyelopez28.github.io/Tech-degree-project-3/",
+            "github_link": "https://github.com/cindyelopez28/Tech-degree-project-3.git",
+            "image_urls": ["/static/img/form1.jpg", "/static/img/form2.jpg","/static/img/form3.jpg"]
+        },
+        {
+            "id": "3",
+            "project_name": "OOP Game Show App",
+            "description": "A hang-man style game, where a players needs to guess the correct word with a limited set of tries",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "https://cindyelopez28.github.io/Tech-degree-project-4/",
+            "github_link": "https://github.com/cindyelopez28/Tech-degree-project-4.git",
+            "image_urls": ["/static/img/hangMan1.jpg", "/static/img/hangMan2.jpg"]
+        },
+        {
+            "id": "4",
+            "project_name": "Public API Requests",
+            "description": "Showcase an employee directory by communicating with a third-party API",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "https://github.com/cindyelopez28/Tech-degree-project-5.git",
+            "github_link": "https://github.com/cindyelopez28/Tech-degree-project-5",
+            "image_urls": ["/static/img/direct1.jpg", "/static/img/direct2.jpg"]
+        }
+    ]
+
+}
