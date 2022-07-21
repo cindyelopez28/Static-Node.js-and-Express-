@@ -2,13 +2,13 @@ const express = require('express');
 const app = express();
 const port = 5500;
 
-const data = require('./data.json');
+const { projects } = require('./data.json');
 
 app.set('view engine', 'pug');
 app.use('/static', express.static('public'));
 
 app.get('/', (req, res) => {
-    res.render('index', {data});
+    res.render('index', { projects });
 })
 
 app.get('/about', (req, res) => {

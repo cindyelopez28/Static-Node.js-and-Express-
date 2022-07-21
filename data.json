@@ -12,8 +12,8 @@
             "live_link":"https://cindyelopez28.github.io/Tech-degree-project-1/",
             "github_link": "https://github.com/cindyelopez28/Tech-degree-project-1.git",
             "image_urls": [
-                "/static/img/randomQuote1.jpg",
-                "/static/img/randomQuote2.jpg"
+                "/static/images/randomQuote1.jpg",
+                "/static/images/randomQuote2.jpg"
             ]
         },
         {
@@ -28,8 +28,8 @@
             "live_link": "https://cindyelopez28.github.io/Tech-degree-project-2/",
             "github_link": "https://github.com/cindyelopez28/Tech-degree-project-2.git",
             "image_urls": [
-                "/static/img/dp1.jpg",
-                "/static/img/dp2.jpg"
+                "/static/images/dp1.jpg",
+                "/static/images/dp2.jpg"
             ]
         },
         {
@@ -39,7 +39,7 @@
             "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://cindyelopez28.github.io/Tech-degree-project-3/",
             "github_link": "https://github.com/cindyelopez28/Tech-degree-project-3.git",
-            "image_urls": ["/static/img/form1.jpg", "/static/img/form2.jpg","/static/img/form3.jpg"]
+            "image_urls": ["/static/images/form1.jpg", "/static/images/form2.jpg","/static/images/form3.jpg"]
         },
         {
             "id": "3",
@@ -48,7 +48,7 @@
             "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://cindyelopez28.github.io/Tech-degree-project-4/",
             "github_link": "https://github.com/cindyelopez28/Tech-degree-project-4.git",
-            "image_urls": ["/static/img/hangMan1.jpg", "/static/img/hangMan2.jpg"]
+            "image_urls": ["/static/images/hangMan1.jpg", "/static/images/hangMan2.jpg"]
         },
         {
             "id": "4",
@@ -57,7 +57,7 @@
             "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://github.com/cindyelopez28/Tech-degree-project-5.git",
             "github_link": "https://github.com/cindyelopez28/Tech-degree-project-5",
-            "image_urls": ["/static/img/direct1.jpg", "/static/img/direct2.jpg"]
+            "image_urls": ["/static/images/direct1.jpg", "/static/images/direct2.jpg"]
         }
     ]
 
