@@ -25,8 +25,8 @@
                 "CSS",
                 "Javascript"
             ],
-            "live_link": "https://cindyelopez28.github.io/Tech-degree-project-2/",
-            "github_link": "https://github.com/cindyelopez28/Tech-degree-project-2.git",
+            "live_link": "https://cindyelopez28.github.io/Tech-degree-project-2--new-/",
+            "github_link": "https://github.com/cindyelopez28/Tech-degree-project-2--new-.git",
             "image_urls": [
                 "/static/images/dp1.jpg",
                 "/static/images/dp2.jpg"
@@ -55,7 +55,7 @@
             "project_name": "Public API Requests",
             "description": "Showcase an employee directory by communicating with a third-party API",
             "technologies": ["HTML", "CSS", "Javascript"],
-            "live_link": "https://github.com/cindyelopez28/Tech-degree-project-5.git",
+            "live_link": "https://cindyelopez28.github.io/Tech-degree-project-5/",
             "github_link": "https://github.com/cindyelopez28/Tech-degree-project-5",
             "image_urls": ["/static/images/direct1.jpg", "/static/images/direct2.jpg"]
         }

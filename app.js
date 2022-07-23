@@ -45,7 +45,7 @@ app.use((err,req,res,next)=>{
     res.send(`Error Code: ${err.status}: ${err.message}`);
     console.log(err)
 });
-//port set up
+//port server
 app.listen(port, () => {
     console.log("Server Started...");
 });
